@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TwitterTest.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="twitterConsumerKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">jGi3Wy7s2S3tDNSc9cbZgBYn7</Value>
+    </Setting>
+    <Setting Name="twitterConsumerSecret" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">aAxmUZgv74ka7J3xwdAkpfaharDIosD0RDokeVrzfYpE2nsFAy</Value>
+    </Setting>
+    <Setting Name="twitterAccessToken" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">1410626749960970246-bhHh0dVYmy0tilZEzCI8DTuBR9WGyW</Value>
+    </Setting>
+    <Setting Name="twitterAccessTokenSecret" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ePOSVhjY4kIqX1Uh7CsWhbaKpQ3pxtBtd3opOtwTCzzYr</Value>
+    </Setting>
+    <Setting Name="onlyEnglish" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="taskCount" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">6</Value>
+    </Setting>
+    <Setting Name="outputToFile" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
